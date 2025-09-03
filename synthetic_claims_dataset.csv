@@ -1,0 +1,3001 @@
+CPT Code,Insurance Company,Physician Name,Payment Amount,Balance,Denial Reason
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+,,,,,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99212.0,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99214.0,Aetna,Dr. Johnson,$80.00,$20.00,
+93000.0,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+99213.0,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+,,,,,
+99215.0,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule

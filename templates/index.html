@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claim Denial Analysis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: 'Inter', sans-serif; }
+    .card { 
+      background: #ffffff; 
+      border-radius: 14px; 
+      box-shadow: 0 5px 12px rgba(0, 0, 0, 0.06); 
+      transition: transform 0.25s ease, box-shadow 0.25s ease; 
+    }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); }
+    th, td { padding: 12px; text-align: left; }
+    th { background: #f3f4f6; font-weight: 600; }
+    tr:nth-child(even) { background: #fafafa; }
+    .table-container { overflow-x: auto; }
+  </style>
+</head>
+<body class="bg-gray-100 py-10">
+<div class="max-w-7xl mx-auto px-4">
+
+  <!-- Header -->
+  <header class="text-center mb-12">
+    <h1 class="text-4xl font-extrabold text-gray-800">Claim Denial Dashboard</h1>
+    <p class="mt-2 text-lg text-gray-600">Interactive insights to improve your claim management</p>
+  </header>
+
+  <!-- File Upload -->
+  <div class="card p-8 mb-12 text-center">
+    <h2 class="text-2xl font-semibold text-gray-800 mb-6">Upload Your CSV File</h2>
+    <form action="/" method="post" enctype="multipart/form-data" class="flex flex-col items-center">
+      <input type="file" name="file" id="file-upload" class="hidden" accept=".csv">
+      <label for="file-upload" class="cursor-pointer bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-8 rounded-full shadow">
+        Choose File
+      </label>
+    </form>
+    <p class="text-gray-500 mt-4">Upload your claims CSV file to begin analysis.</p>
+  </div>
+
+  {% if cpt_analysis %}
+  <!-- Bigger Key Tables -->
+  <section class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
+    <div class="card p-8">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-4">Top Denied CPT Codes</h2>
+      <div class="table-container">{{ cpt_analysis|safe }}</div>
+    </div>
+    <div class="card p-8">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-4">Denials by Payer</h2>
+      <div class="table-container">{{ payer_denials|safe }}</div>
+    </div>
+    <div class="card p-8">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-4">Denials by Provider</h2>
+      <div class="table-container">{{ provider_denials|safe }}</div>
+    </div>
+  </section>
+
+  <!-- Root Causes & Recommendations -->
+  <div class="card p-8 mt-12 bg-teal-50">
+    <h2 class="text-2xl font-semibold text-teal-700 mb-6 text-center">Root Cause Analysis</h2>
+    <div class="table-container">{{ root_causes|safe }}</div>
+  </div>
+
+  <div class="card p-8 mt-8 bg-purple-50">
+    <h2 class="text-2xl font-semibold text-purple-700 mb-6 text-center">Recommended Fixes & Strategies</h2>
+    <div class="table-container">{{ recommendations|safe }}</div>
+  </div>
+
+  <!-- Charts -->
+  <section class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
+    {% if cpt_chart %}
+    <div class="card p-6 text-center">
+      <h2 class="text-lg font-semibold text-gray-700 mb-4">Denials by CPT</h2>
+      <img src="data:image/png;base64,{{ cpt_chart }}" class="rounded-lg shadow mx-auto">
+    </div>
+    {% endif %}
+    {% if payer_chart %}
+    <div class="card p-6 text-center">
+      <h2 class="text-lg font-semibold text-gray-700 mb-4">Denials by Payer</h2>
+      <img src="data:image/png;base64,{{ payer_chart }}" class="rounded-lg shadow mx-auto">
+    </div>
+    {% endif %}
+  </section>
+
+  {% if provider_chart %}
+  <!-- Provider Chart Full Width & Centered -->
+  <div class="card p-8 mt-8 text-center bg-blue-50">
+    <h2 class="text-xl font-semibold text-blue-700 mb-4">Denials by Provider</h2>
+    <img src="data:image/png;base64,{{ provider_chart }}" class="rounded-lg shadow-lg mx-auto max-w-3xl">
+  </div>
+  {% endif %}
+
+  <section class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
+    {% if lost_revenue_chart %}
+    <div class="card p-6 col-span-1 md:grid-cols-2 text-center">
+      <h2 class="text-lg font-semibold text-gray-700 mb-4">Lost Revenue Trends</h2>
+      <img src="data:image/png;base64,{{ lost_revenue_chart }}" class="rounded-lg shadow mx-auto">
+    </div>
+    {% endif %}
+    {% if heatmap_chart %}
+    <div class="card p-6 col-span-1 md:grid-cols-2 text-center">
+      <h2 class="text-lg font-semibold text-gray-700 mb-4">Denial Heatmap (Payer vs CPT)</h2>
+      <img src="data:image/png;base64,{{ heatmap_chart }}" class="rounded-lg shadow mx-auto">
+    </div>
+    {% endif %}
+  </section>
+  {% else %}
+  <div class="text-center text-gray-600 mt-10 p-8 bg-white rounded-xl shadow">
+    <p class="text-lg">Please upload a CSV file to see the analysis results.</p>
+  </div>
+  {% endif %}
+</div>
+
+<script>
+  document.getElementById('file-upload').addEventListener('change', function(e) {
+    if (e.target.files.length > 0) {
+      e.target.closest('form').submit();
+    }
+  });
+</script>
+</body>
+</html>

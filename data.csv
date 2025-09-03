@@ -1,0 +1,29 @@
+,,,,,,
+,,,,,,
+#,CPT Code,Insurance Company,Physician Name,Payment Amount,Balance,Denial Reason
+1,99213,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+2,99214,Aetna,Dr. Johnson,$80.00,$20.00,
+3,99215,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+4,93000,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+5,99212,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+6,99213,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+7,99214,Aetna,Dr. Johnson,$80.00,$20.00,
+8,99215,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+9,93000,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+10,99212,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+11,99213,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+12,99214,Aetna,Dr. Johnson,$80.00,$20.00,
+13,99215,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+14,93000,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+15,99212,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+16,99213,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+17,99214,Aetna,Dr. Johnson,$80.00,$20.00,
+18,99215,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+19,93000,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+20,99212,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+21,99213,Medicare,Dr. Smith,$0.00,$100.00,16 - Missing information
+22,99214,Aetna,Dr. Johnson,$80.00,$20.00,
+23,99215,Cigna,Dr. Lee,$0.00,$150.00,45 - Charge exceeds fee schedule
+24,93000,UnitedHealthcare,Dr. Patel,$50.00,$0.00,
+25,99212,Blue Cross,Dr. Kim,$0.00,$75.00,96 - Non-covered service
+26,,,,,,
