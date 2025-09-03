@@ -2,5 +2,6 @@ Flask==3.0.2
 pandas
 matplotlib
 seaborn
-scikit-learn
+joblib
+scikit-learn==1.6.1
 gunicorn
